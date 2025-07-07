@@ -1,6 +1,7 @@
-h3,p{
-    color: blue;
-    font-style: italic;
-    font-size: 32px;
-    font: status-bar;
+input:checked ~ img {
+    opacity: 0;
+    visibility: hidden;
+}
+img {
+    transition: 1.5s;
 }

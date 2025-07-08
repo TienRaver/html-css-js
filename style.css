@@ -1,7 +1,1 @@
-input:checked ~ img {
-    opacity: 0;
-    visibility: hidden;
-}
-img {
-    transition: 1.5s;
-}
+

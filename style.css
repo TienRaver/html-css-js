@@ -1,9 +1,9 @@
-h2 {
-    color: #e58d0a;
-    font-family: Arial, sans-serif;
-    text-align: left;
-    -webkit-user-select: none;
-       -moz-user-select: none;
-        -ms-user-select: none;
-            user-select: none;
+.demo {
+    color: blue;
+    font-size: 18px;
+    font-style: normal;
+}
+.demo2 {
+    font-size: 60px;
+    
 }

@@ -1,9 +1,4 @@
-.demo {
-    color: blue;
-    font-size: 18px;
-    font-style: normal;
-}
-.demo2 {
-    font-size: 60px;
-    
+h2.demo{
+    color: red;
+    font-size: 30px;
 }

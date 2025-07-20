@@ -1,4 +1,6 @@
-.demo {
-  color: rgb(30, 0, 255);
-  font-size: 20px;
+a[target="_blank"]{
+  color: rgb(38, 0, 255);
+}
+[target="_self"]{
+  color: rgb(190, 233, 16);
 }

@@ -1,6 +1,8 @@
-a[target="_blank"]{
-  color: rgb(38, 0, 255);
-}
-[target="_self"]{
-  color: rgb(190, 233, 16);
+.border1{
+  background-color: yellow;
+  border: 2px solid #e20a0a;
+  padding: 10px;
+  margin: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
 }

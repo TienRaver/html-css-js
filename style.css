@@ -1,3 +1,8 @@
-h2:target{
+p:nth-last-of-type(1) {
+  color: red;
+  font-size: 20px;
+}
+p:nth-last-child(1) {
   color: blue;
+  font-size: 18px;
 }

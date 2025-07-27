@@ -1,8 +1,13 @@
-p:nth-last-of-type(1) {
-  color: red;
-  font-size: 20px;
-}
-p:nth-last-child(1) {
-  color: blue;
-  font-size: 18px;
+.box {
+  font-size: 30px;
+  color: white;
+  width: 120px;
+  height: 60px;
+  /* padding: 10px; */
+  text-align: center;
+  line-height: 55px;
+  background-color: blue;
+  border: 5px solid peru;
+  border-radius: 40px;
+  margin: 20px;
 }

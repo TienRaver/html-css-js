@@ -1,13 +1,21 @@
-.box {
-  font-size: 30px;
-  color: white;
-  width: 120px;
-  height: 60px;
-  /* padding: 10px; */
+body {
+  background-color: #d8d5d5;
+}
+.container h1 {
+  font-size: 40px;
+  font-family: "Gill Sans", "Gill Sans MT";
+}
+.container p {
+  font-size: 20px;
+  font-family: "Arial", sans-serif;
+  line-height: 30px;
+}
+.container{
+  margin: 0 auto;
+  width: 500px;
   text-align: center;
-  line-height: 55px;
-  background-color: blue;
-  border: 5px solid peru;
-  border-radius: 40px;
-  margin: 20px;
+  background-color: aqua;
+}
+.container img {
+  max-width: 400px;
 }

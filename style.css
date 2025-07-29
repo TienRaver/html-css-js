@@ -1,21 +1,15 @@
-body {
-  background-color: #d8d5d5;
+.avatar {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  border: 5px solid #db0909;
+  margin-left: -60px;
 }
-.container h1 {
-  font-size: 40px;
-  font-family: "Gill Sans", "Gill Sans MT";
+img:first-child {
+  margin-left: 0;
 }
-.container p {
-  font-size: 20px;
-  font-family: "Arial", sans-serif;
-  line-height: 30px;
-}
-.container{
-  margin: 0 auto;
-  width: 500px;
-  text-align: center;
-  background-color: aqua;
-}
-.container img {
-  max-width: 400px;
+.content{
+  /* width: 280px; */
+  background-color: yellowgreen;
+  padding: 20px 20px;
 }

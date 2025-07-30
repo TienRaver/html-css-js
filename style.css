@@ -1,15 +1,11 @@
-.avatar {
-  width: 120px;
-  height: 120px;
-  border-radius: 50%;
-  border: 5px solid #db0909;
-  margin-left: -60px;
+.box_parent {
+  height: 250px;
+  background-color: #d74c4c;
+  display: flex;
+  flex-direction: column;
 }
-img:first-child {
-  margin-left: 0;
-}
-.content{
-  /* width: 280px; */
-  background-color: yellowgreen;
-  padding: 20px 20px;
+.box_child {
+  background-color: #4c74d7;
+  width: 50%;
+  margin-top: 40px;
 }

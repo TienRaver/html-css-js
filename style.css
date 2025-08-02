@@ -1,11 +1,12 @@
-.box_parent {
-  height: 250px;
-  background-color: #d74c4c;
-  display: flex;
-  flex-direction: column;
+body {
+  font-style: italic;
+  color: blue;
+  font-size: 20px;
+  border-top: 20px solid red;
 }
-.box_child {
-  background-color: #4c74d7;
-  width: 50%;
-  margin-top: 40px;
+h2 {
+  font-size: 30px;
+  color: green;
+  border-top: 5px solid blueviolet;
+  padding-top: 10px;
 }

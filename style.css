@@ -1,12 +1,5 @@
-body {
-  font-style: italic;
-  color: blue;
-  font-size: 20px;
-  border-top: 20px solid red;
-}
-h2 {
-  font-size: 30px;
-  color: green;
-  border-top: 5px solid blueviolet;
-  padding-top: 10px;
+.box {
+  background-color: blue;
+  color: white;
+  width: 50%;
 }

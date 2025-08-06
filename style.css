@@ -1,5 +1,11 @@
-.box {
-  background-color: blue;
-  color: white;
-  width: 50%;
+.parent {
+  width: 80vw;
+  height: 80vh;
+  margin: 0 auto;
+  background-color: cadetblue;
+}
+.line1 {
+  width: 50vw;
+  height: 50vh;
+  background-color: blueviolet;
 }

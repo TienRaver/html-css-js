@@ -1,11 +1,9 @@
-.parent {
-  width: 80vw;
-  height: 80vh;
-  margin: 0 auto;
-  background-color: cadetblue;
+html {
+  font-size: 40px;
 }
-.line1 {
-  width: 50vw;
-  height: 50vh;
-  background-color: blueviolet;
+.child {
+  width: 2rem;
+  height: 2rem;
+  background-color: red;
+  margin: 1rem;
 }
